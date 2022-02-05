@@ -54,7 +54,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/images/profile_3.png"
   name: "Raysa Díaz"
   namecolor: ffc107
   profession: "Sociologist"
