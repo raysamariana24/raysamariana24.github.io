@@ -103,7 +103,7 @@ params:
       enddate: Dec 2018
       featuredpoints:
         - point: Improve the comprehension and increase the vocabulary of the students
-        - point: Perform dynamics and participation through the use of materials for better student learning.
+        - point: Perform dynamics and participation through the use of materials for better student learning
 
   # Education
   disable_education: false
