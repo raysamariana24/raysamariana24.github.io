@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Welcome to my website!"
 theme: "./.."
 relativeURLs: true
 
@@ -55,15 +55,11 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Raysa Díaz"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  profession: "Sociologist"
+  github: "https://github.com/raysamariana24"
+  linkedin: "https://www.linkedin.com/in/raysa-diaz-romero-a335b4206/"
 
   #Custom social links
   # customSocialLinks:
@@ -74,8 +70,8 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hello! I am Raysa, a bachelor in Sociology from Pontifical Catholic University of Peru. I consider myself very proactive, responsible, disciplined and motivated to continue learning. I am currently working as a teaching assistant of academic research at PUCP."
+  descripe_l2_person: "My interests topics are rural development, gender, environment, programming and statistics. Knowledge acquired in managing interviews and databases."
   skills:
     - name: CSS
       percentage: 90
