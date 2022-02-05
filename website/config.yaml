@@ -108,21 +108,16 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "Sociology"
+      branch: "Social Sciences"
+      university: "Pontifical Catholic University of Peru"
+      startedyear: "2015"
+      graduation: "2021"
+    - degree: "Specialization Diploma in Data Science for Social Sciences and Public Management"
+      branch: "Social Sciences"
+      university: "Pontifical Catholic University of Peru"
+      startedyear: "2021"
+      graduation: "2022"
 
   # Projects
   disable_projects: false
