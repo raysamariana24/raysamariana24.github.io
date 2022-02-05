@@ -80,7 +80,7 @@ params:
     - name: Python
       percentage: 75
     - name: Machine Learning
-      percentage: 75
+      percentage: 70
 
   # Experience
   disable_experience: false
