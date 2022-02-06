@@ -49,7 +49,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "/images/butterfly_1.png"
+  favicon: "/images/butterfly_1.jpg"
   description: "A high performance hugo theme for personal portfolio and blog."
 
   # home
