@@ -131,8 +131,8 @@ params:
   achievements:
     - title: English degree
       description: Advanced course.
-      img: /images/achiv.jpg
-      url: https://example.com
+      img: /images/english_degree.jpg
+      url: https://drive.google.com/drive/folders/1UO9j67143iRWhB2IXQRF9pqwCdUFYynx
 
 
   # Contact
